@@ -57,20 +57,6 @@
       "mandatory": false,
       "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+4-windows",
       "platform": "windows"
-    },
-    {
-      "version": "1.0.0",
-      "shortVersion": 1,
-      "changes": [
-        {
-          "type": "feat",
-          "message": "نسخه اول"
-        }
-      ],
-      "date": "2026-10-26",
-      "mandatory": false,
-      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+1-windows",
-      "platform": "windows"
     }
   ]
 }
