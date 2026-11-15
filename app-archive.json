@@ -4,6 +4,21 @@
   "items": [
     {
       "version": "1.0.0",
+      "fullVersion": "1.0.0+19",
+      "shortVersion": 19,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "goodboy"
+        }
+      ],
+      "date": "2026-11-15",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+19-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
       "fullVersion": "1.0.0+18",
       "shortVersion": 18,
       "changes": [
