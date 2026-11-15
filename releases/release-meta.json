@@ -134,6 +134,21 @@
         }
       ],
       "updatedAt": "2026-11-15T19:56:51.423021"
+    },
+    "1.0.0+15": {
+      "title": "برسی شماره 7",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 15,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "برسی شماره 7"
+        }
+      ],
+      "updatedAt": "2026-11-15T20:11:33.444253"
     }
   }
 }
