@@ -104,6 +104,21 @@
         }
       ],
       "updatedAt": "2026-11-15T19:45:46.856961"
+    },
+    "1.0.0+13": {
+      "title": "Rollback to 1.0.0+11",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 13,
+      "isRollback": true,
+      "sourceBuild": 11,
+      "changes": [
+        {
+          "type": "fix",
+          "message": "Rollback to 1.0.0+11: Rollback to 1.0.0+11"
+        }
+      ],
+      "updatedAt": "2026-11-15T19:56:20.461445"
     }
   }
 }
