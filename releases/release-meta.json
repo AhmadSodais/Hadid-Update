@@ -179,6 +179,21 @@
         }
       ],
       "updatedAt": "2026-11-15T20:23:43.680682"
+    },
+    "1.0.0+18": {
+      "title": "hello",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 18,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "hello"
+        }
+      ],
+      "updatedAt": "2026-11-15T20:41:22.387221"
     }
   }
 }
