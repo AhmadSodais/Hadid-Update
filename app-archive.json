@@ -4,6 +4,21 @@
   "items": [
     {
       "version": "1.0.0",
+      "fullVersion": "1.0.0+14",
+      "shortVersion": 14,
+      "changes": [
+        {
+          "type": "fix",
+          "message": "Rollback to 1.0.0+10: Rollback to 1.0.0+10"
+        }
+      ],
+      "date": "2026-11-15",
+      "mandatory": true,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+14-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
       "fullVersion": "1.0.0+13",
       "shortVersion": 13,
       "changes": [
