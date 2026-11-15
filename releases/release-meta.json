@@ -209,6 +209,21 @@
         }
       ],
       "updatedAt": "2026-11-15T20:53:46.664237"
+    },
+    "1.0.0+20": {
+      "title": "working",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 20,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "working"
+        }
+      ],
+      "updatedAt": "2026-11-15T21:35:32.822401"
     }
   }
 }
