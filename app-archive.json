@@ -4,6 +4,21 @@
   "items": [
     {
       "version": "1.0.0",
+      "fullVersion": "1.0.0+21",
+      "shortVersion": 21,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Solve problem of login"
+        }
+      ],
+      "date": "2026-11-15",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+21-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
       "fullVersion": "1.0.0+20",
       "shortVersion": 20,
       "changes": [

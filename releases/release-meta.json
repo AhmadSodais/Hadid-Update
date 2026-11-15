@@ -224,6 +224,21 @@
         }
       ],
       "updatedAt": "2026-11-15T21:35:32.822401"
+    },
+    "1.0.0+21": {
+      "title": "Solve problem of login",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 21,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Solve problem of login"
+        }
+      ],
+      "updatedAt": "2026-11-15T21:48:58.983770"
     }
   }
 }
