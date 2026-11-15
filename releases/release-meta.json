@@ -89,6 +89,21 @@
         }
       ],
       "updatedAt": "2026-11-15T19:08:13.634298"
+    },
+    "1.0.0+12": {
+      "title": "تست شماره شیشم",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 12,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "تست شماره شیشم"
+        }
+      ],
+      "updatedAt": "2026-11-15T19:45:46.856961"
     }
   }
 }
