@@ -149,6 +149,36 @@
         }
       ],
       "updatedAt": "2026-11-15T20:11:33.444253"
+    },
+    "1.0.0+16": {
+      "title": "برسی شماره 8",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 16,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "برسی شماره 7"
+        }
+      ],
+      "updatedAt": "2026-11-15T20:18:00.434353"
+    },
+    "1.0.0+17": {
+      "title": "برسی شماره 7",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 17,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "برسی شماره 7"
+        }
+      ],
+      "updatedAt": "2026-11-15T20:23:43.680682"
     }
   }
 }

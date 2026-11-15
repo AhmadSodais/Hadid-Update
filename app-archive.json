@@ -4,6 +4,36 @@
   "items": [
     {
       "version": "1.0.0",
+      "fullVersion": "1.0.0+17",
+      "shortVersion": 17,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "برسی شماره 7"
+        }
+      ],
+      "date": "2026-11-15",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+17-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
+      "fullVersion": "1.0.0+16",
+      "shortVersion": 16,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "برسی شماره 7"
+        }
+      ],
+      "date": "2026-11-15",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+16-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
       "fullVersion": "1.0.0+15",
       "shortVersion": 15,
       "changes": [
