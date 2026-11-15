@@ -4,6 +4,20 @@
   "items": [
     {
       "version": "1.0.0",
+      "shortVersion": 10,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "test 4"
+        }
+      ],
+      "date": "2026-11-15",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+10-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
       "shortVersion": 9,
       "changes": [
         {

@@ -59,6 +59,21 @@
         }
       ],
       "updatedAt": "2026-11-15T18:06:00.125855"
+    },
+    "1.0.0+10": {
+      "title": "test 4",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 10,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "test 4"
+        }
+      ],
+      "updatedAt": "2026-11-15T18:42:19.135538"
     }
   }
 }
