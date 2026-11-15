@@ -1,0 +1,49 @@
+{
+  "releases": {
+    "1.0.0+4": {
+      "title": "Test",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 4,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "test"
+        }
+      ],
+      "updatedAt": "2026-11-15T13:59:57.132495"
+    },
+    "1.0.0+6": {
+      "title": "test 2",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 6,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "test 2"
+        }
+      ],
+      "updatedAt": "2026-11-15T15:10:44.478756"
+    },
+    "1.0.0+7": {
+      "title": "test1",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 7,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "test1"
+        }
+      ],
+      "updatedAt": "2026-11-15T16:17:33.177677"
+    }
+  }
+}

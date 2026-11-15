@@ -1,0 +1,62 @@
+{
+  "appName": "Hadid",
+  "description": "Hadid Windows desktop in-app updates...",
+  "items": [
+    {
+      "version": "1.0.0",
+      "shortVersion": 7,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "test1"
+        }
+      ],
+      "date": "2026-11-15",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+7-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
+      "shortVersion": 6,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "test 2"
+        }
+      ],
+      "date": "2026-11-15",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+6-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
+      "shortVersion": 4,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "test"
+        }
+      ],
+      "date": "2026-11-15",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+4-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
+      "shortVersion": 1,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "نسخه اول"
+        }
+      ],
+      "date": "2026-10-26",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+1-windows",
+      "platform": "windows"
+    }
+  ]
+}
