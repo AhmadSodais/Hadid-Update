@@ -1,0 +1,3 @@
+# Hadid-Update: serve release bytes exactly as hashed.
+# Without this, Git converts text EOL and desktop_updater rejects downloads.
+* -text
