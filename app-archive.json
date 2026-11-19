@@ -4,6 +4,21 @@
   "items": [
     {
       "version": "1.0.0",
+      "fullVersion": "1.0.0+22",
+      "shortVersion": 22,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "نسخه بک اند"
+        }
+      ],
+      "date": "2026-11-19",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Hadid-Update/main/releases/1.0.0+22-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
       "fullVersion": "1.0.0+21",
       "shortVersion": 21,
       "changes": [

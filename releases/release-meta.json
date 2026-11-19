@@ -239,6 +239,21 @@
         }
       ],
       "updatedAt": "2026-11-15T21:48:58.983770"
+    },
+    "1.0.0+22": {
+      "title": "نسخه بک اند",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 22,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "نسخه بک اند"
+        }
+      ],
+      "updatedAt": "2026-11-19T12:46:28.704450"
     }
   }
 }
